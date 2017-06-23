@@ -1,0 +1,4 @@
+*.idea
+flaskr.egg-info*
+flaskrEnv*
+setup.py
